@@ -21,7 +21,7 @@ MBTI별로 좋아하는 컬러를 보여주는 웹페이지입니다.
 
 ## 📸 Preview
 ### Main Page (Index)
-<img src="index-preview.png" width="500">
+<img src="index-preview.png">
 
 ### New Color Page
 <img src="new-preview1.png" width="500">
