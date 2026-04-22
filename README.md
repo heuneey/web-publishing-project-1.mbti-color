@@ -1,6 +1,7 @@
 # MBTI Color
 
 MBTI별로 좋아하는 컬러를 보여주는 웹페이지입니다.
+(코드잇 실습)
 
 ## 🔗 Demo
 - https://heuneey.github.io/web-publishing-project-1.mbti-color/
