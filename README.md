@@ -21,11 +21,11 @@ MBTI별로 좋아하는 컬러를 보여주는 웹페이지입니다.
 
 ## 📸 Preview
 ### Main Page (Index)
-![index-preview](index-preview.png)
+<img src="index-preview.png" width="500">
 
 ### New Color Page
-![new-preview1](new-preview1.png)
-![new-preview2](new-preview2.png)
+<img src="new-preview1.png" width="500">
+<img src="new-preview2.png" width="500">
 
 ## ✨ Author
 - Heuneey
